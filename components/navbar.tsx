@@ -57,7 +57,7 @@ export default function Navbar() {
                             className="flex items-center space-x-2 text-white"
                         >
                             <FaCompass className="h-8 w-8 animate-pulse" />
-                            <span className="font-fancy text-3xl">TravelHub</span>
+                            <span className="font-fancy text-2xl">TravelHub</span>
                         </Link>
                     </div>
 
